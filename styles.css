@@ -2,6 +2,10 @@
 
 /* General */
 
+html {
+    overflow-x: hidden;
+}
+
 body, html {
     margin: 0;
     padding: 0;
@@ -9,7 +13,6 @@ body, html {
     font-family: "Open Sans", "sans-serif";
     color:#bbbbbb;
     scroll-behavior: smooth;
-    overflow-x: hidden;
 }
 
 .header {
